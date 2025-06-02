@@ -1,0 +1,7 @@
+torch
+torchaudio
+gradio
+librosa
+matplotlib
+soundfile
+asteroid
